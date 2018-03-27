@@ -1,0 +1,328 @@
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\ApplicationInsights.config
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\roslyn\csc.exe
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\roslyn\vbc.exe
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Web.dll.config
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Web.dll
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Web.pdb
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Antlr3.Runtime.dll
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\EntityFramework.dll
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Microsoft.AI.Web.dll
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Microsoft.Owin.dll
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Newtonsoft.Json.dll
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Owin.dll
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\System.Web.Helpers.dll
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\System.Web.Mvc.dll
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\System.Web.Optimization.dll
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\System.Web.Razor.dll
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\System.Web.WebPages.dll
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\WebGrease.dll
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Microsoft.AI.Web.xml
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\System.Web.Helpers.xml
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\System.Web.Mvc.xml
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\System.Web.Optimization.xml
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\System.Web.Razor.xml
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\System.Web.WebPages.xml
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Antlr3.Runtime.pdb
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Newtonsoft.Json.xml
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\EntityFramework.xml
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Microsoft.Owin.xml
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\obj\Debug\Web.dll
+C:\Users\Joshua\Desktop\Basic-MVC\Web\Web\obj\Debug\Web.pdb
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\ApplicationInsights.config
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\roslyn\csc.exe
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\roslyn\vbc.exe
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Web.dll.config
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Web.dll
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Web.pdb
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Antlr3.Runtime.dll
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\EntityFramework.dll
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Microsoft.AI.Web.dll
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Microsoft.Owin.dll
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Newtonsoft.Json.dll
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Owin.dll
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\System.Web.Helpers.dll
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\System.Web.Mvc.dll
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\System.Web.Optimization.dll
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\System.Web.Razor.dll
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\System.Web.WebPages.dll
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\WebGrease.dll
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Microsoft.AI.Web.xml
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\System.Web.Helpers.xml
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\System.Web.Mvc.xml
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\System.Web.Optimization.xml
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\System.Web.Razor.xml
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\System.Web.WebPages.xml
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Antlr3.Runtime.pdb
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Newtonsoft.Json.xml
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\EntityFramework.xml
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Microsoft.Owin.xml
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\obj\Debug\Web.dll
+C:\Users\Joshua\Desktop\MVC Tutorials\2. MVC_DBFirst\Basic_EF_CRUD\Web\Web\obj\Debug\Web.pdb
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\ApplicationInsights.config
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\roslyn\csc.exe
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\roslyn\vbc.exe
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Web.dll.config
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Web.dll
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Web.pdb
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Antlr3.Runtime.dll
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\EntityFramework.dll
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Microsoft.AI.Web.dll
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Microsoft.Owin.dll
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Newtonsoft.Json.dll
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Owin.dll
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\System.Web.Helpers.dll
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\System.Web.Mvc.dll
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\System.Web.Optimization.dll
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\System.Web.Razor.dll
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\System.Web.WebPages.dll
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\WebGrease.dll
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Microsoft.AI.Web.xml
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\System.Web.Helpers.xml
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\System.Web.Mvc.xml
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\System.Web.Optimization.xml
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\System.Web.Razor.xml
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\System.Web.WebPages.xml
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Antlr3.Runtime.pdb
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Newtonsoft.Json.xml
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\EntityFramework.xml
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Microsoft.Owin.xml
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\obj\Debug\Web.dll
+C:\Users\Joshua\Desktop\Basic_EF_CRUD\Web\Web\obj\Debug\Web.pdb
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\ApplicationInsights.config
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\roslyn\csc.exe
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\roslyn\vbc.exe
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Web.dll.config
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Web.dll
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Web.pdb
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Antlr3.Runtime.dll
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\EntityFramework.dll
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Microsoft.AI.Web.dll
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Microsoft.Owin.dll
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Newtonsoft.Json.dll
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Owin.dll
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\System.Web.Helpers.dll
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\System.Web.Mvc.dll
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\System.Web.Optimization.dll
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\System.Web.Razor.dll
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\System.Web.WebPages.dll
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\WebGrease.dll
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Microsoft.AI.Web.xml
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\System.Web.Helpers.xml
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\System.Web.Mvc.xml
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\System.Web.Optimization.xml
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\System.Web.Razor.xml
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\System.Web.WebPages.xml
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Antlr3.Runtime.pdb
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Newtonsoft.Json.xml
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\EntityFramework.xml
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Microsoft.Owin.xml
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\obj\Debug\Web.dll
+C:\Users\Joshua\Desktop\CRUD-basic\Web\Web\obj\Debug\Web.pdb
